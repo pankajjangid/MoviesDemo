@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoviesDemo</string>
+    <string name="msg_socket_time_out">Response time out,please try again.</string>
+    <string name="msg_api_error">Error occurred ,please try again.</string>
+    <string name="loading">Loading...</string>
+    <string name="na">N/A</string>
+    <string name="search">Serach...</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="sort_by_date">Sort by Date</string>
+    <string name="title_asc">Ascending</string>
+    <string name="title_desc">Descending</string>
+    <string name="clear_all">Reset</string>
+    <string name="movies_list">Movies List</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="no_movies_found">No Movies Found</string>
+
+    <string name="review">Reviews</string>
+
+    <string name="cast">Cast</string>
+    <string name="release_status">Release Status</string>
+    <string name="release_date">Release Date</string>
+    <string name="tagline">Tagline</string>
+    <string name="description">Description</string>
+    <string name="retry">Retry</string>
+
+</resources>
