@@ -4,11 +4,11 @@ This application fetches the data via api and shows the listing and its details.
 
 This application consist of 3 screens
 
-[Splash](https://github.com/pankajjangid/MoviesApp/tree/master/app/src/main/java/com/momentous/movies_app/modules/splash)
+[Splash](https://github.com/pankajjangid/MoviesDemo/tree/master/app/src/main/java/com/momentous/movies_app/modules/splash)
 
-[Movies Listing](https://github.com/pankajjangid/MoviesApp/tree/master/app/src/main/java/com/momentous/movies_app/modules/movies)
+[Movies Listing](https://github.com/pankajjangid/MoviesDemo/tree/master/app/src/main/java/com/momentous/movies_app/modules/movies)
 
-[Movie Details](https://github.com/pankajjangid/MoviesApp/tree/master/app/src/main/java/com/momentous/movies_app/modules/movie_details)
+[Movie Details](https://github.com/pankajjangid/MoviesDemo/tree/master/app/src/main/java/com/momentous/movies_app/modules/movie_details)
 
 ### VIPER architecture pattern 
 In android development I used on manu architecture pattern like MVP,MVVM and VIPER.In this project I used the VIPER architecture pattern.
